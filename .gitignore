@@ -1,0 +1,5 @@
+*.o
+makefile.save
+main
+run
+main1.c
