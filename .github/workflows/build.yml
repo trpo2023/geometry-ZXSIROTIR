@@ -8,7 +8,7 @@ jobs:
 		
 		steps:
 			- name: Build it!
-			run: make
+			run: make all
 			
 			- name: Build test!
 			run: make test
